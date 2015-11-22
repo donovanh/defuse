@@ -1,0 +1,121 @@
+Draft 3:
+
+Structure
+
+Thank you for that introduction Christopher! Let's go.
+
+-Question
+
+Have you ever put together gorgeous specification for the design, then halfway through development someone been like  "how's this bit supposed to move?" Let's talk about how we can bring animation into our design process.
+
+-CSS Animation rocks
+
+A little back story... I've been writing tutorials for a while about animation. I learned a few things about animating things on the web, plenty of browser quirks and performance issues, but more than that it got me thinking about how, as a designer, we use animation in design.
+
+-?
+
+How do we design animations for our UI, for our brand? How do we go from fancy animated demos, to something that adds value to the overall design of what we're building? Can animation help our designs?
+
+- yep
+
+So yeah, of course it can. Animation can be helpful in many ways - it can set the stage for our content, it can help people understand when something is taken away or added, and can draw attention to important actions or information people need to see.
+
+- (Lamp -> Pixar Lamp = Anchormanface)
+
+People identify with animation. They project character onto it - When people see a lamp, it's just a lamp. But when it moves, it becomes something more. Something that connects with us, deeply.
+
+- Stripe
+
+Animation also helps brands stand out - Stripe famously used lots of subtle animations on their payment form, taking something very boring like a modal window, and using animation to give it character.
+
+- Aliens guy (TRANSITIONS)
+
+What happens all too often is that we end up designing animations at the last minute. At this point it's very hard to give much thought to how an animation might fit into the greater design.
+
+- (Style guide)
+
+But what about style guides? When creating a project we might create a document that lists the fonts, colours, layouts, and maybe even show images or live versions of the components. We might even use it to talk about *why* our brand uses the colours it does, or what our choice of font says about us.
+
+- Style Guide: Fonts / Colours / Layouts / Animation?
+
+Let's put animation in the style guide. To do that we can revisit this idea that our brand is a character.
+
+- Character
+
+The error messages on your form, they all have the potential to have character. If your app or website was a stage, all the components are characters playing their part, and together they convey the character of your brand.
+
+- Andrex
+
+So we can start by thinking of the words that describe our brand. It could be soft, and fluffy. It could be minimal, or precise, or it could be inspiring and playful. Just like you might choose one font over another, you can choose your animations in the same way.
+
+- Kitman words
+
+Here's an example of what we did at Kitman Labs. We listed out the words that we felt reflected the character we wanted to put across.
+
+- Overview image
+
+We then took those as a starting point, and put together a broad overview of what animation meant in our apps. We documented it, and made the document available on an internal website. If you do something similar, you could use a Wiki, something like Google Docs, or print a poster and put it on the wall. Make it visible.
+
+- Animate all the things
+
+What sorts of animations might you document? When you start looking for them you'll find animation everywhere. You might start with an animated loading icon, a hover effect on a button, animating in items in a menu, transitioning between pages, or guiding the user to important new changes in the UI.
+
+- Images of UI components
+
+The main thing is, these animations all add up to define the character you set out earlier.
+
+- Component from IBM example
+
+As you design components, you can put up videos or animated gifs that show how the animation will work. It can be a place to explain the purpose of the animations, not just for yourself but for other designers, or to share with people developing the UI.
+
+- Google Material, IBM Design Patterns
+
+Get inspiration from other projects. Google and IBM are good places to start. They share lots of examples of how animations can help your UI. Totally recommend checking them out.
+
+- Pattern Lab
+
+You can also find a great framework at PatternLab. It gives you a skeleton set of components to get started, customise and make your own.
+
+- Style guide title with list of Fonts / Colours / Layouts / Animations (tick next to animations)
+
+By taking the time to set out what what we want animation to bring to our projects, and taking the time to document our goals, we'll be able to list animation alongside the other parts that come together to make up our brand. Experiment, document and try to design animation deliberately, and  people might love your brand too.
+
+- I love lamp @donovanh
+
+Thank you
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
